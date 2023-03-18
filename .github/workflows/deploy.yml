@@ -70,3 +70,4 @@ jobs:
         with:
           bucket: gha-js-action-hosting
           dist-folder: ./dist
+          bucket-region: eu-north-1
